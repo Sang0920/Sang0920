@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sang0920.
 - 👀 I’m interested in soccer.
-- 🌱 I’m currently learning programming languages(Python and C++).
+- 🌱 I’m currently learning programming languages.
 - 💞️ I’m looking to collaborate on exciting projects to gain more experience. 
 - 📫 Contact me: 2001203004@hufi.edu.vn or dothesang1thekdts@gmail.com.
 
